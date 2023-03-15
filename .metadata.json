@@ -1,10 +1,10 @@
 [
   {
-    "package": "qualvar",
+    "package": "concaveman",
     "oncran": true
   },
   {
-    "package": "concaveman",
+    "package": "qualvar",
     "oncran": true
   }
 ]

@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "qualvar"]
-	path = qualvar
-	url = https://github.com/joelgombin/qualvar
-	shallow = true
-	registered = true
 [submodule "concaveman"]
 	path = concaveman
 	url = https://github.com/joelgombin/concaveman
+	shallow = true
+	registered = true
+[submodule "qualvar"]
+	path = qualvar
+	url = https://github.com/joelgombin/qualvar
 	shallow = true
 	registered = true
